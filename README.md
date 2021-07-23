@@ -8,4 +8,4 @@ I also used Bootstrap for the first time to assist with the styling.
 
 ## Screenshot
 
-![screenshot]('./assets/images/screenshot.png')
+![screenshot](./app/assets/images/screenshot.png)
