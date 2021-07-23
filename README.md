@@ -1,24 +1,7 @@
-# README
+# Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Introduction
 
-Things you may want to cover:
+A simple blog app made in Ruby on Rails to understand how to use the web framework. This involved the creation of routes, models, controllers and DB manipulation.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I also used Bootstrap for the first time to assist with the styling.
